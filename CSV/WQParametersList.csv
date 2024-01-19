@@ -1,0 +1,78 @@
+CharacteristicName,Type
+pH,pH
+"Temperature, water",Tempature
+Salinity,Salinity
+"Depth, bottom",Depth
+Dissolved oxygen saturation,DO
+Dissolved oxygen (DO),DO
+Specific conductance,Conductance
+"Depth, Secchi disk depth",Secchi
+Depth,Z
+Total suspended solids,Solids
+Phosphate-phosphorus,Phosphorus
+"Chlorophyll a, corrected for pheophytin",Chl_a
+Turbidity,Turbidity
+Inorganic nitrogen (nitrate and nitrite),N
+Ammonia-nitrogen,Ammonia
+"Nitrogen, mixed forms (NH3), (NH4), organic, (NO2) and (NO3)",N
+True color,Color
+Chlorophyll,Chl_a
+Ammonia,Ammonia
+Fluoride,Runoff
+"Chlorophyll a, free of pheophytin",Chl_a
+Nitrite,N
+Atrazine,herbicide
+Norflurazon,herbicide
+Ametryn,herbicide
+Ethion,insecticide
+Phorate,insecticide
+Metalaxyl,fungicide
+Butylate,herbicide
+Mevinphos,insecticide
+Fonofos,insecticide
+Ethoprop,insecticide
+Bromacil,herbicide
+Parathion,insecticide
+Selenium,heavymetal
+Beryllium,heavymetal
+Iron,heavymetal
+Cobalt,heavymetal
+Magnesium,heavymetal
+Zinc,heavymetal
+Cadmium,heavymetal
+Thallium,heavymetal
+Lead,heavymetal
+Manganese,heavymetal
+Barium,heavymetal
+Strontium,heavymetal
+Chromium,heavymetal
+Tin,heavymetal
+Nickel,heavymetal
+Silver,heavymetal
+Endosulfan sulfate,insecticide
+"p,p'-DDD",insecticide
+"p,p'-DDT",insecticide
+Dicofol,pesticide
+Trifluralin,herbicide
+Lindane,insecticide
+Toxaphene,insecticide
+Heptachlor epoxide,insecticide
+Dieldrin,insecticide
+Permethrin,insecticide
+Endrin aldehyde,pesticide
+.alpha.-Hexachlorocyclohexane,insecticide
+Phosphorus,Phosphorus
+Copper,heavymetal
+Arsenic,heavymetal
+Total dissolved solids,Solids
+Molybdenum,heavymetal
+Vanadium,heavymetal
+Acifluorfen,herbicide
+Sulprofos,insecticide
+Saxitoxin,Toxin
+Nitrate as N,N
+Phosphate-phosphorus as P,Phosphorus
+Inorganic nitrogen (nitrate and nitrite) as N,N
+Ammonia-nitrogen as N,Ammonia
+Chlorophyll a,Chl_a
+Ammonium as N,Ammonia
